@@ -1,0 +1,23 @@
+.card{
+    border: 1px solid black;
+    width: 30%;
+    height: 300px;
+    /* display: flex; */
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+    background-color: red;
+}
+img{
+    width: 100px;
+    height: 100px;
+    
+}
+.header{
+    display: flex;
+
+}
+body{
+    display: flex;
+    flex-direction: row;
+}
